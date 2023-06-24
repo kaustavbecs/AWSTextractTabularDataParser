@@ -33,7 +33,7 @@ Follow the steps below to use the script:
      pip3 install -r requirements.txt
      ```
 
-4. Update the `input_document` variable in the `main.py` file with the path or filename of the document you want to process. Ensure that the document is supported by AWS Textract.
+4. Update the `input_document` variable in the `main.py` file with the path and filename of the document you want to process. Ensure that the specified document type is supported by AWS Textract.
 
 5. Run the script by executing the following command:
      ```
